@@ -263,6 +263,7 @@
 //     })
 // }
 
+
 // // Rasmiylashtirish
 // async function ijaraRasmiylashtirish(xonaId, xaridorId) {
 //     try {
@@ -286,3 +287,6 @@
 
 // ijaraRasmiylashtirish(3, "A'zamov Muhammadyahyo")
 // ijaraRasmiylashtirish(6, "A'zamov Muhammadyusuf")
+
+
+// salom git    
